@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **vvkharchenko/vvkharchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about GitHub
 - 📫 How to reach me: vkharchenko@nubip.edu.ua
 - 😄 Pronouns: he
--->
